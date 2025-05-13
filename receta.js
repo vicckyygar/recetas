@@ -2,25 +2,25 @@ const recetasData = {
   desayuno: [
     {
       titulo: "Tostadas con Palta",
-      img: "../paginasrandom/imagenes/panpalta.jpg",
+      img: "panpalta.jpg",
       ingredientes: "Pan, palta, limón, sal.",
       receta: "Tostá el pan, pisá la palta con limón y sal, y serví sobre el pan."
     },
     {
       titulo: "Yogur con Frutas",
-      img: "../paginasrandom/imagenes/yogurfruta.jpg",
+      img: "yogurfruta.jpg",
       ingredientes: "Yogur natural, banana, frutillas, granola.",
       receta: "Cortá las frutas y mezclalas con yogur y granola."
     },
     {
       titulo: "Yogur con Granola",
-      img: "../paginasrandom/imagenes/yogurgranola.jpg",
+      img: "yogurgranola.jpg",
       ingredientes: "Yogur natural, granola, miel, frutas a elección.",
       receta: "Serví el yogur en un bowl, agregá granola y frutas picadas. Endulzá con miel si querés."
     },
     {
       titulo: "Huevo revuelto con Tostadas",
-      img: "../paginasrandom/imagenes/paltahuevo.jpg",
+      img: "paltahuevo.jpg",
       ingredientes: "Huevos, leche, manteca, pan.",
       receta: "Batí los huevos con un poco de leche, cociná con manteca. Serví con pan tostado."
     }
@@ -28,25 +28,25 @@ const recetasData = {
   almuerzo: [
     {
       titulo: "Ensalada Express",
-      img: "../paginasrandom/imagenes/ensalada.jpg",
+      img: "ensalada.jpg",
       ingredientes: "Lechuga, tomate, zanahoria, aceite de oliva.",
       receta: "Lava y corta los vegetales. Mezcla en un bol. Agrega sal, aceite de oliva y mezcla bien."
     },
     {
       titulo: "Omelette Rápido",
-      img: "../paginasrandom/imagenes/omelete.jpg",
+      img: "omelete.jpg",
       ingredientes: "2 huevos, queso, cebolla, sal y pimienta.",
       receta: "Bate los huevos. Agrega cebolla, sal y pimienta. Cocina y agrega queso al final."
     },
     {
       titulo: "Pollo con Arroz",
-      img: "../paginasrandom/imagenes/arrozpollo.jpg",
+      img: "arrozpollo.jpg",
       ingredientes: "Pechuga de pollo, arroz, ajo, cebolla, caldo.",
       receta: "Dorá el pollo, agregá arroz, ajo, cebolla y caldo. Cociná todo junto hasta que esté listo."
     },
     {
       titulo: "Hamburguesa de Lentejas",
-      img: "../paginasrandom/imagenes/lenteja.jpg",
+      img: "lenteja.jpg",
       ingredientes: "Lentejas cocidas, cebolla, pan rallado, huevo, especias.",
       receta: "Procesá las lentejas con cebolla, mezclá con pan rallado y huevo. Formá hamburguesas y cociná."
     }
@@ -54,7 +54,7 @@ const recetasData = {
   cena: [
     {
       titulo: "Sopa de Verduras",
-      img: "../paginasrandom/imagenes/sopa.jpg",
+      img: "sopa.jpg",
       ingredientes: "Zanahoria, papa, zapallo, cebolla, caldo.",
       receta: "Corta todo en cubos. Hierve en caldo 30 min. Procesa si querés textura cremosa."
     },
@@ -66,13 +66,13 @@ const recetasData = {
     },
     {
       titulo: "Sopa de Calabaza",
-      img: "../paginasrandom/imagenes/sopacalabaza.jpg",
+      img: "sopacalabaza.jpg",
       ingredientes: "Calabaza, cebolla, caldo, crema.",
       receta: "Cociná calabaza y cebolla en caldo, procesá y agregá un poco de crema antes de servir."
     },
     {
       titulo: "Frittata de Verduras",
-      img: "../paginasrandom/imagenes/tarta.jpg",
+      img: "tarta.jpg",
       ingredientes: "Huevos, zapallito, cebolla, queso.",
       receta: "Batí huevos, agregá verduras salteadas y queso. Cociná en sartén hasta que cuaje."
     }
@@ -80,25 +80,25 @@ const recetasData = {
   snacks: [
     {
       titulo: "Sándwich de Pollo",
-      img: "../paginasrandom/imagenes/sambuche.jpg",
+      img: "sambuche.jpg",
       ingredientes: "Pan, pollo cocido, lechuga, tomate, mayonesa.",
       receta: "Arma el sándwich con los ingredientes. Tostá si lo preferís caliente."
     },
     {
       titulo: "Tortilla de Papa",
-      img: "../paginasrandom/imagenes/tortipaPA.jpg",
+      img: "tortipaPA.jpg",
       ingredientes: "Papa, huevo, cebolla, sal.",
       receta: "Freí las papas y cebolla. Batí huevos, mezclá y cociná en sartén."
     },
     {
       titulo: "Chips de Batata",
-      img: "../paginasrandom/imagenes/chips.jpg",
+      img: "chips.jpg",
       ingredientes: "Batata, aceite de oliva, sal.",
       receta: "Cortá en rodajas finas, rociá con aceite y horneá hasta dorar. Agregá sal a gusto."
     },
     {
       titulo: "Fruta con Chocolate",
-      img: "../paginasrandom/imagenes/CHOCOLATEFRUTA.jpg",
+      img: "CHOCOLATEFRUTA.jpg",
       ingredientes: "Frutillas o banana, chocolate derretido.",
       receta: "Sumergí las frutas en el chocolate derretido. Dejá enfriar para que se endurezca."
     }
